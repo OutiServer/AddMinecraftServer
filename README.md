@@ -1,0 +1,2 @@
+# AddMinecraftServer
+マイクラ鯖を追加するためだけのレポジトリ
